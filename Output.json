@@ -1,0 +1,141 @@
+
+
+
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC Sport",
+    "title": "Sir Chris Hoy cancer diagnosis: Six-time Olympic champion 'surrounded by love'",
+    "description": "Six-time Olympic champion Sir Chris Hoy says he is \"optimistic, positive and surrounded by love\" after revealing cancer diagnosis.",
+    "url": "https://www.bbc.co.uk/sport/cycling/68321710",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/27FD/production/_132673201_gettyimages-873287482.jpg",
+    "publishedAt": "2024-02-17T12:22:20.7084299Z",
+    "content": "Six-time Olympic cycling champion Sir Chris Hoy says he is \"optimistic, positive and surrounded by love\" after revealing he was diagnosed with cancer last year.\r\nThe former Great Britain track cyclis… [+1688 chars]"
+    },
+
+    
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Democrats relieved as Manchin rules out White House bid",
+    "description": "The West Virginia senator finally ended speculation he might run as an independent candidate.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68320288",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A628/production/_132663524_gettyimages-1948399771.jpg",
+    "publishedAt": "2024-02-17T12:22:19.3337728Z",
+    "content": "When Joe Manchin, one of the most high-profile centrists in US politics, announced he would not be running for president on Friday, you could almost hear the sigh of relief from the Biden campaign.\r\n… [+3134 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine war: Is Avdiivka's fall a sign Russia is turning the tide?",
+    "description": "With Western supplies to Ukraine faltering, Russia is making its size matter but the outcome is far from certain.",
+    "url": "https://www.bbc.co.uk/news/world-europe-68322527",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A313/production/_132674714_ac0f47024843fef4b3c7253914e3bbe0511802830_0_5579_31391000x563.jpg",
+    "publishedAt": "2024-02-17T12:22:18.3969697Z",
+    "content": "\"In order to preserve life and encirclement, I have withdrawn our units from Avdiivka.\" \r\nWhen he was appointed this month, Ukraine's new head of the armed forces, Gen Oleksandr Syrskyi, said he woul… [+4103 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Donald Trump hit where it hurts most in New York fraud ruling",
+    "description": "A scathing judgment limits the former president's ability to do business in the city where he made his name.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68323086",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14D63/production/_132674358_gettyimages-74417134.jpg",
+    "publishedAt": "2024-02-17T12:22:15.8326324Z",
+    "content": "Donald Trump's latest legal loss hits him where it hurts most because it takes aim at his very identity. \r\nFor decades, he has marketed himself as a genius business mogul who made it big in one of th… [+5595 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine war: 'Artificial shortage' of weapons helps Putin, says Zelensky",
+    "description": "Ukraine's president says Russia's Vladimir Putin will unleash a catastrophe if he is allowed to win the war.",
+    "url": "https://www.bbc.co.uk/news/world-europe-68325022",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5241/production/_132675012_b0b440318c5a0348ae3ee07915435790827dca270_286_5561_31281000x563.jpg",
+    "publishedAt": "2024-02-17T11:52:16.1580691Z",
+    "content": "Ukraine's President Volodymyr Zelensky has made an urgent appeal for more weapons to avoid a \"catastrophic\" situation in Europe.\r\nAn \"artificial deficit of weapons\" will only help Russia, Mr Zelensky… [+2145 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "The day I found out I had special 'neo' blood",
+    "description": "Some patients, especially newborns, need specially tested blood to ensure it does not cause harm.",
+    "url": "https://www.bbc.co.uk/news/health-68205015",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7AF4/production/_132667413_0df72c9d-98a8-4c11-b00b-e65a3c1805c7.jpg",
+    "publishedAt": "2024-02-17T07:37:09.7074062Z",
+    "content": "I have always been proud of donating blood. I have a relatively rare blood type (B-) and recently found out my blood is even more precious to the NHS, because it can be given to newborn babies.\r\nAt m… [+4842 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Mass protest in Hungary over child-abuse case",
+    "description": "Tens of thousands rally in Budapest over a sexual abuse scandal involving top allies of PM Viktor Orban.",
+    "url": "https://www.bbc.co.uk/news/world-europe-68323361",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F9C1/production/_132673936_19f271dbbd3c942a1b23e12d288842e8ed07469c-1.jpg",
+    "publishedAt": "2024-02-17T02:52:15.7552669Z",
+    "content": "Tens of thousands of people in Hungary have protested following a presidential pardon in a child sexual abuse case that has shocked the nation.\r\nDemonstrators packed the historic Heroes' Square in th… [+1807 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Avdiivka: Ukraine troops leaving embattled eastern town",
+    "description": "Ukraine's top commander says he has acted to avoid encirclement by Russian forces in the town of Avdiivka.",
+    "url": "https://www.bbc.co.uk/news/world-europe-68323366",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+    "publishedAt": "2024-02-17T01:07:16.9106039Z",
+    "content": "Ukraine's military says it is withdrawing its troops from Avdiivka - the key eastern town besieged by Russian forces.\r\nUkraine's Commander-in-Chief Oleksandr Syrskyi said he acted \"to avoid encirclem… [+907 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Key takeaways from Donald Trump's 'overwhelming' fraud trial defeat",
+    "description": "Donald Trump was hit with a crushing $354m fine, but averted the worst outcome for his business empire.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68323487",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/467F/production/_132674081_gettyimages-1925191104.jpg",
+    "publishedAt": "2024-02-17T01:07:14.8798578Z",
+    "content": "In a stunning blow to his business empire, Donald Trump has been found liable for almost $355m (£281m) in penalties by Justice Arthur Engoron, in a long-awaited conclusion to the billionaire's fraud … [+6752 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Prince Harry speaks for the first time about King's cancer diagnosis",
+    "description": "The prince tells US TV he \"jumped on a plane\" as soon as possible to see his father following the diagnosis.",
+    "url": "https://www.bbc.co.uk/news/uk-68314330",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12594/production/_132665157_gettyimages-2014051141.jpg",
+    "publishedAt": "2024-02-16T14:07:20.2245181Z",
+    "content": "The Duke of Sussex has told US TV that he \"jumped on a plane\" as soon as possible to see King Charles after his father was diagnosed with cancer.\r\nIn an interview with ABC News, Prince Harry said it … [+3468 chars]"
+    }
+    ]
+    }
